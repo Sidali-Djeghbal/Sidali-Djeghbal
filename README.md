@@ -5,8 +5,6 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=sidali-djeghbal&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
-[![wakatime](https://wakatime.com/badge/user/53c3ccee-ae51-4aa3-a80e-b0bed4d1bc9c.svg)](https://wakatime.com/@53c3ccee-ae51-4aa3-a80e-b0bed4d1bc9c)
-
 <!--h1 without bottom border-->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
