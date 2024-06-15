@@ -5,7 +5,7 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=sidali-djeghbal&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
-[![wakatime](https://wakatime.com/badge/user/018d0002-0873-4354-92f4-81fbd22bec66.svg)](https://wakatime.com/@018d0002-0873-4354-92f4-81fbd22bec66)
+[![wakatime](https://wakatime.com/badge/user/53c3ccee-ae51-4aa3-a80e-b0bed4d1bc9c.svg)](https://wakatime.com/@53c3ccee-ae51-4aa3-a80e-b0bed4d1bc9c)
 
 <!--h1 without bottom border-->
 <h3 align="center">
@@ -14,7 +14,7 @@
         </samp>
 </h3>
 <p align="center">
-  <a href="https://github.com/sidali-djeghbal"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1%2B%20year%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/sidali-djeghbal"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 <p align="center"> 
   <samp>
@@ -23,7 +23,7 @@
 </p>
 <p align="center">
    <a href="https://www.linkedin.com/in/sidali-djeghbal" target="_blank">
-	<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="hafed"/>
+	<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="sidali"/>
    </a>
    <a href="mailto:sidalidjeghbal@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail -%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
@@ -35,7 +35,7 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-✔ Call me: Ali 😎 <br><br>
+✔ Call me: Sidali 😎 <br><br>
 ✔ I’m currently **learning** about **Front-end & Graphic design** <br><br>
 ✔ I’m currently **working** on some **Personal Projects**<br><br>
 ✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* <br><br><br><br>
@@ -44,7 +44,7 @@
 <br>
 <p align="center">
 
-- **My Go To Tech-Stack**:
+- **My Go-To Tech Stack**:
     
 <p align="center">
   <img src="https://skillicons.dev/icons?i=next,react,typescript,tailwind" />
@@ -55,7 +55,7 @@
 - **Languages**:
     
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,js" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,php" />
 </p>
 
 <br>   
@@ -63,7 +63,7 @@
 - **Front-End Development**:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,next" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react" />
 </p>
 
 <br>
@@ -71,7 +71,7 @@
 - **Softwares and Tools**:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github,linux,windows,vscode,ubuntu,nodejs,bash,netlify,stackoverflow,figma,ps,xd,webstorm,ai,ae,clion,pycharm,replit,gmail,linkedin" />
+  <img src="https://skillicons.dev/icons?i=github,linux,windows,vscode,bash,netlify,stackoverflow,figma,ps,xd,webstorm,ai,ae,gmail,linkedin" />
 </p>
 
 <br>
@@ -90,7 +90,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/sidali-djeghbal">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sidali-djeghbal&theme=algolia" alt="7afde's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sidali-djeghbal&theme=algolia" alt="sidali's GitHub Contribution"/>
   </a>
 </p>
 <p align="center">
