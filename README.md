@@ -33,8 +33,8 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-✔ Call me: Sidali 😎 <br><br>
-✔ I’m currently **learning** about **Front-end & Graphic design** <br><br>
+✔ Call me: Sidali <br><br>
+✔ I’m currently **learning** about **web development** <br><br>
 ✔ I’m currently **working** on some **Personal Projects**<br><br>
 ✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* <br><br><br><br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -45,7 +45,7 @@
 - **My Go-To Tech Stack**:
     
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=next,react,typescript,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,typescript,tailwind,bootstrap" />
 </p>
 
 <br>
