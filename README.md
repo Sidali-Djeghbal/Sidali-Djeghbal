@@ -12,11 +12,11 @@
         </samp>
 </h3>
 <p align="center">
-  <a href="https://github.com/sidali-djeghbal"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/sidali-djeghbal"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Web%20development%20enthusiast;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 <p align="center"> 
   <samp>
-    「 I am a CS student and future front-end developer from <b>Algeria</b> 」
+    「 I am a CS student and future web developer from <b>Algeria</b> 」
   </samp>
 </p>
 <p align="center">
