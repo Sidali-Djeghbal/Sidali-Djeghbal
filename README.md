@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **web Development**
 
-- 👨‍💻 Explore my projects at [Sidali.tech](http://sidali.tech/)
+- 👨‍💻 Explore my portfolio at [Sidali.tech](http://sidali.tech/)
 
 - 💬 Ask me about **React,Tailwind, Bootstrap, Next.js, Node.js**
 
@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/sidali.djeghbal/" target="_blank">
-<img src="https://img.shields.io/badge/ahmadpiracha-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/sidali-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/sidali-djeghbal/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
 </p>
@@ -93,7 +93,7 @@
 
 <!-- Design Tools -->
 <a href="https://www.figma.com/" target="_blank">
-  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-F20E1E?style=for-the-badge&logo=figma&logoColor=white">
 </a>
 
 
