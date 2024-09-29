@@ -1,4 +1,6 @@
-<h1> Hi there! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> </h1>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<h1> Hi there! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> </h3>
 <p align='center'>
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Sidali+DJEGHBAL;Future+Web+Developer;Computer+Science+student;Graphic+Designer;%40ahmadpiracha">
 </p>
@@ -27,6 +29,8 @@
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
 </p>
 <br>
+	
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px>
 
@@ -96,6 +100,7 @@
   <img alt="Figma" src="https://img.shields.io/badge/Figma-F20E1E?style=for-the-badge&logo=figma&logoColor=white">
 </a>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 ## Github Contribution Streak 🔥 
@@ -103,6 +108,9 @@
 <p align='center'><img src="https://github-readme-streak-stats.herokuapp.com?user=sidali-djeghbal&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"></p>
 
 <hr><br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 ## Github Stats &nbsp;📊
 <br>
@@ -112,6 +120,9 @@
 <hr>
 <br>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
 ## Most Used Languages 📚
 <br>
 <p align='center'>
@@ -120,6 +131,9 @@
 
 <hr>
 <br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 ------
 Credit: [Sidali DJEGHBAL](https://github.com/Sidali-Djeghbal/)
