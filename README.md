@@ -2,7 +2,7 @@
 
 <h1> Hi there! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> </h3>
 <p align='center'>
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Sidali+DJEGHBAL;Future+Web+Developer;Computer+Science+student;Graphic+Designer;%40ahmadpiracha">
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Sidali+DJEGHBAL;Future+Web+Developer;Computer+Science+student;Graphic+Designer;%40sidali">
 </p>
 	<img src="https://komarev.com/ghpvc/?username=sidali-djeghbal&label=Profile%20views&color=0047AB&style=plastic?" alt="profile views" height=25px, width=160px/> 
 
@@ -100,7 +100,7 @@
   <img alt="Figma" src="https://img.shields.io/badge/Figma-F20E1E?style=for-the-badge&logo=figma&logoColor=white">
 </a>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
