@@ -83,11 +83,6 @@
 
 <p align="center">
   <a href="https://github.com/sidali-djeghbal">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sidali-djeghbal&theme=algolia" alt="Sidali's GitHub streak"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/sidali-djeghbal">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sidali-djeghbal&theme=algolia" alt="sidali's GitHub Contribution"/>
   </a>
 </p>
