@@ -13,7 +13,7 @@
 
 - 👨‍💻 Explore my portfolio at [Sidali.tech](http://sidali.tech/)
 
-- 💬 Ask me about **React,Tailwind, Bootstrap, Next.js, Node.js**
+- 💬 Ask me about **Bootstrap, Tailwind and React**
 
 - 📫 Reach me at **sidalidjeghbal@gmail.com**
 
@@ -32,9 +32,9 @@
 	
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## What i do <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px>
+## What i use <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px>
 
-<img src="https://skillicons.dev/icons?i=c,cpp,php,java,python,nodejs,fastapi,git,express,bash,md,html,css,js,bootstrap,tailwind,react,jquery,figma,blender,ps,ae,ai,au,pr,xd,clion,idea,pycharm,phpstorm,webstorm,codepen,vscode,webflow,stackoverflow,debian,mint,linux,windows,discord,github,gmail,linkedin,replit,netlify,notion"/>
+<img src="https://skillicons.dev/icons?i=c,clion,php,phpstorm,java,idea,python,pycharm,git,github,md,html,css,js,nodejs,jquery,bootstrap,tailwind,react,webstorm,figma,xd,vscode,linux,bash,windows,discord,gmail,linkedin"/>
 
 <br>
 <br>
@@ -44,4 +44,4 @@
 
 Credit: [Sidali DJEGHBAL](https://github.com/Sidali-Djeghbal/)
 
-Last Edited on: 01/09/2024
+Last Edited on: 27/11/2024
