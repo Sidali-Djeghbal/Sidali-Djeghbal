@@ -34,7 +34,7 @@
 
 ## What i use <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px>
 
-<img src="https://skillicons.dev/icons?i=c,clion,php,phpstorm,java,idea,python,pycharm,git,github,md,html,css,js,nodejs,jquery,bootstrap,tailwind,react,webstorm,figma,xd,vscode,linux,bash,windows,discord,gmail,linkedin"/>
+<img src="https://skillicons.dev/icons?i=c,clion,php,phpstorm,java,idea,python,pycharm,git,github,md,html,css,js,nodejs,jquery,bootstrap,tailwind,figma,xd,vscode,linux,bash,windows,discord,gmail,linkedin"/>
 
 <br>
 <br>
