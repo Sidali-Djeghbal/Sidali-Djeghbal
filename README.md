@@ -4,7 +4,8 @@
 <p align='center'>
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Sidali+DJEGHBAL;Future+Web+Developer;Computer+Science+student;Graphic+Designer;%40sidali">
 </p>
-	<img src="https://komarev.com/ghpvc/?username=sidali-djeghbal&label=Profile%20views&color=0047AB&style=plastic?" alt="profile views" height=25px, width=160px/> 
+	<img src="https://komarev.com/ghpvc/?username=sidali-djeghbal&label=Profile%20views&color=0047AB&style=plastic?" alt="profile views" height=25px, width=160px/>
+ 	<a href="https://wakatime.com/@53c3ccee-ae51-4aa3-a80e-b0bed4d1bc9c"><img src="https://wakatime.com/badge/user/53c3ccee-ae51-4aa3-a80e-b0bed4d1bc9c.svg" alt="Total time coded since Jun 15 2024" /></a>
 
 <img align="right" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 
