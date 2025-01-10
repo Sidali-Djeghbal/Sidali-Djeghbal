@@ -34,11 +34,8 @@
 ## What i use <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px>
 
 <img src="https://skillicons.dev/icons?i=c,clion,java,idea,python,pycharm,git,github,md,html,css,js,nodejs,jquery,bootstrap,tailwind,figma,xd,vscode,linux,bash,windows,discord,gmail,linkedin"/>
-
+<br>
  <a href="https://wakatime.com/@53c3ccee-ae51-4aa3-a80e-b0bed4d1bc9c"><img src="https://wakatime.com/badge/user/53c3ccee-ae51-4aa3-a80e-b0bed4d1bc9c.svg" alt="Total time coded since Jun 15 2024" /></a>
-
-<br>
-<br>
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
