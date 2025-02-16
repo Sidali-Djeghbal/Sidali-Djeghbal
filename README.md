@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h1> Hi there - السلام عليكم <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 35px> </h1>
+<h1> Hi there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 35px> </h1>
 <p align='center'>
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Sidali+DJEGHBAL;Future+Web+Developer;Computer+Science+student;%40sidali.djeghbal">
 </p>
@@ -33,4 +33,4 @@
 
 Credit: [Sidali DJEGHBAL](https://github.com/Sidali-Djeghbal/)
 
-Last Edited on: 15/02/2024
+Last Edited on: 15/02/2025
