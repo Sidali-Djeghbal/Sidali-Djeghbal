@@ -22,7 +22,7 @@ Reach me at : &nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=c,cpp,bash,powershell,md,py,java,html,css,sass,php,js,ts,bootstrap,tailwind,react,vite,nextjs,threejs,materialui"/>
 <br>
 
-[![wakatime](https://wakatime.com/badge/user/53c3ccee-ae51-4aa3-a80e-b0bed4d1bc9c.svg)](https://wakatime.com/@53c3ccee-ae51-4aa3-a80e-b0bed4d1bc9c)
+[![wakatime](https://wakatime.com/badge/user/53c3ccee-ae51-4aa3-a80e-b0bed4d1bc9c.svg)]
 
 
 ## Other tools 
