@@ -25,7 +25,7 @@ Reach me at : &nbsp;&nbsp;
 ![wakatime](https://wakatime.com/badge/user/53c3ccee-ae51-4aa3-a80e-b0bed4d1bc9c.svg)
 
 
-## Other tools 
+## Other 
 
 <img src="https://skillicons.dev/icons?i=svg,bun,npm,deno,vscodium,androidstudio,idea,phpstorm,git,github,stackoverflow,anaconda,netlify,replit,webflow,firebase,linux"/>
 <br>
