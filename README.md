@@ -1,4 +1,3 @@
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align='center'>
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Sidali+DJEGHBAL;Web+Developer;AI+Student;%40sidali.djeghbal">
@@ -30,9 +29,3 @@ Reach me at : &nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=bun,npm,vscodium,idea,git,github,stackoverflow,anaconda,netlify,linux"/>
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-Credit: [Sidali DJEGHBAL](https://github.com/Sidali-Djeghbal/)
-
-Last Edited on: 2025/11/13
