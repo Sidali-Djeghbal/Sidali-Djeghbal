@@ -19,7 +19,7 @@ Reach me at : &nbsp;&nbsp;
 
 ## Tech stack i use
 
-<img src="https://skillicons.dev/icons?i=c,cpp,bash,powershell,md,py,java,html,css,sass,php,js,ts,bootstrap,tailwind,react,vite,nextjs,threejs,materialui"/>
+<img src="https://skillicons.dev/icons?i=c,bash,powershell,md,py,java,html,css,sass,js,ts,tailwind,react,vite,nextjs,threejs,materialui"/>
 <br>
 
 ![wakatime](https://wakatime.com/badge/user/53c3ccee-ae51-4aa3-a80e-b0bed4d1bc9c.svg)
@@ -27,7 +27,7 @@ Reach me at : &nbsp;&nbsp;
 
 ## Other 
 
-<img src="https://skillicons.dev/icons?i=svg,bun,npm,deno,vscodium,androidstudio,idea,phpstorm,git,github,stackoverflow,anaconda,netlify,replit,webflow,firebase,linux"/>
+<img src="https://skillicons.dev/icons?i=bun,npm,vscodium,idea,git,github,stackoverflow,anaconda,netlify,linux"/>
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -35,4 +35,4 @@ Reach me at : &nbsp;&nbsp;
 
 Credit: [Sidali DJEGHBAL](https://github.com/Sidali-Djeghbal/)
 
-Last Edited on: 2025/10/16
+Last Edited on: 2025/11/13
