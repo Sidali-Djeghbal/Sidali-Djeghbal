@@ -9,16 +9,7 @@
 
  Time spent on coding : <img src="https://wakatime.com/badge/user/53c3ccee-ae51-4aa3-a80e-b0bed4d1bc9c.svg" alt="wakatime" align="">
 
-
-Reach me at:
-<a href="mailto:sidalidjeghbal@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white">
-<a href="https://www.linkedin.com/in/sidali-djeghbal/" target="_blank">
-<img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff">
-<a href="https://t.me/+213672865639/" target="_blank">
-<img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white">
-
-## Tech stack
+## Tech Stack I Use
 
 ### Programming Languages
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/bash-light.svg" width="50"></a>
@@ -66,4 +57,15 @@ Reach me at:
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/archlinux-light.svg" width="50"></a>
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/postman.svg" width="50"></a>
 
+---
+
+## Let's Connect
+
+Reach me at:
+<a href="mailto:sidalidjeghbal@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white">
+<a href="https://www.linkedin.com/in/sidali-djeghbal/" target="_blank">
+<img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff">
+<a href="https://t.me/+213672865639/" target="_blank">
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white">
 
