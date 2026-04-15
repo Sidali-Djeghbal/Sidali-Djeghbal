@@ -34,7 +34,7 @@
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/radixui-light.svg" width="50"></a>
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/axios-light.svg" width="50"></a>
 
-### Backend
+### Backend & Databases
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/expressjs-light.svg" width="50"></a>
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/nodejs-light.svg" width="50"></a>
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/flask-light.svg" width="50"></a>
@@ -46,7 +46,7 @@
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/fastapi.svg" width="50"></a>
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/django.svg" width="50"></a>
 
-### Others
+### Tools & Platforms 
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/figma-light.svg" width="50"></a>
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/obsidian-light.svg" width="50"></a>
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/markdown-light.svg" width="50"></a>
@@ -57,11 +57,11 @@
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/archlinux-light.svg" width="50"></a>
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/postman.svg" width="50"></a>
 
----
 
 ## Let's Connect
+Got a project in mind? I’m always looking for opportunities to contribute and grow with the community. 
 
-Reach me at:
+**Reach me at:**
 <a href="mailto:sidalidjeghbal@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white">
 <a href="https://www.linkedin.com/in/sidali-djeghbal/" target="_blank">
