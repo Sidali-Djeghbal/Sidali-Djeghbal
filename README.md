@@ -64,8 +64,14 @@ Got a project in mind? I’m always looking for opportunities to contribute and 
 **Reach me at:**
 <a href="mailto:sidalidjeghbal@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white">
+</a>
 <a href="https://www.linkedin.com/in/sidali-djeghbal/" target="_blank">
 <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff">
+</a>
 <a href="https://t.me/+213672865639/" target="_blank">
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white">
+</a>
+<a href="https://wa.me/+213672865639/" target="_blank">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white">
+</a>
 
