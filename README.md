@@ -75,3 +75,7 @@ Got a project in mind? I’m always looking for opportunities to contribute and 
 <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white">
 </a>
 
+
+<div align="center">
+  <img src="https://github.com/Sidali-Djeghbal/Sidali-Djeghbal/blob/main/profile-3d-contrib/profile-green-animate.svg" />
+</div>
