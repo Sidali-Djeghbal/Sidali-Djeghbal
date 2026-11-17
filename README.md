@@ -4,7 +4,7 @@
 
 - **Frontend & UI Engineer** specializing in high-interactivity **React, Next.js, TypeScript, and Tailwind CSS** applications, data-intensive dashboards, and bidirectional (**RTL/LTR**) web interfaces.
 - Currently building responsive public platforms, custom **React-Admin** CMS tools, and **TipTap** editorial workflows, and maintaining open-source visual programming tools (**Daad Blockly**).
--  • **Open to remote Frontend / UI roles**.
+-  **Open to remote Frontend / UI roles**.
 
 <p align="center">
   <img src="https://wakatime.com/badge/user/53c3ccee-ae51-4aa3-a80e-b0bed4d1bc9c.svg" alt="WakaTime" />
